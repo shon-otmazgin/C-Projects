@@ -1,0 +1,12 @@
+shonot.
+Shon Otmazgin 305394975.
+EX1 – String Pattern Matching Algorithm.
+slist.c - implementation of a linked list , the data of each node in the list is void*.
+pattern_matching.c - implemenation of a dictionary-matching algorithm that locates elements of a finite set of strings.
+README - this file.
+REMARKS:
+1. in the file pattern_matching.c i added an private recoursion function called "my_destroy" that funcrion gets the root of the FSM
+the original destroy function using this function.
+2. if you using the search function be aware that the function is returning list , remember to free this list in your tester.
+3.README format- missing guidelines for the README format txt/pdf/none - so my default is PDF.
+4. we assume that the input in the project is right and acceptable - ex. ac d is not acceptable input. 

@@ -1,0 +1,11 @@
+shonot.
+Shon Otmazgin 305394975.
+EX4 – HTTP server.
+threadpool.c - implantation of threadpool.h , which creating a threads pool for jobs to process.
+server.c - is a socket programing , which implement a HTTP server that responding to client resquests the server using threads for requests.
+README - this file.
+REMARKS:
+1. please use it with FireFox.
+2. While the program is running , may be errors like :
+Un successes while trying to lock/unlock the queue, init the cond or the mutex , malloc etc..
+If it happened, a message with the problem and where (which function) it happened, will occur and the function will shut(return).

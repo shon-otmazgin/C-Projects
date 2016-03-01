@@ -1,0 +1,10 @@
+shonot.
+Shon Otmazgin 305394975.
+EX2 – HTTP client.
+client.c - is a socket programing , which implement a client that trying to request a HTTP request from the server.
+README - this file.
+REMARKS:
+1. please use it carfully and be aware to the inserted data.
+2. the input data is from the user while running the program.
+3. the running should be : client [-h] [-d <time-interval>] <URL>
+

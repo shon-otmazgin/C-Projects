@@ -1,0 +1,10 @@
+shonot.
+Shon Otmazgin 305394975.
+EX5 – UDP sockets with Select.
+server.c - is a UDP socket programing , which implement a HTTP echo server that responding to client resquests messages.
+slist.c - is a file implemeting linked list.
+slist.h - the header of the linked list. 
+README - this file.
+REMARKS:
+None.
+
